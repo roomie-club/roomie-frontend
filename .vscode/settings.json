@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "i18n-ally.displayLanguage": "en",
+    "i18n-ally.keystyle": "flat",
+    "i18n-ally.enabledFrameworks": ["transloco"],
+    "i18n-ally.localesPaths": ["apps/roomie-client/src/assets/i18n"],
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "always"
+    }
+}
