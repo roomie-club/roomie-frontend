@@ -15,7 +15,8 @@
         "skipDefaultLibCheck": true,
         "baseUrl": ".",
         "paths": {
-            "@roomie/roomie-ui-kit": ["libs/roomie-ui-kit/src/index.ts"]
+            "@roomie/roomie-ui-kit": ["libs/roomie-ui-kit/src/index.ts"],
+            "@roomie/roomie-ui-kit/input": ["libs/roomie-ui-kit/input/src/index.ts"]
         }
     },
     "exclude": ["node_modules", "tmp"]
